@@ -11,4 +11,4 @@ A multiplayer game of Rock Paper and Scissor using Apache Kafka as a messaging s
 ## Screens
 
 ![Player 1](https://github.com/ashnehete/RockPaperScissor-Kafka/blob/master/screenshots/player1.png "Player 1")
-![Player 2](https://github.com/ashnehete/RockPaperScissor-Kafka/blob/master/screenshots/player1.png "Player 2")
+![Player 2](https://github.com/ashnehete/RockPaperScissor-Kafka/blob/master/screenshots/player2.png "Player 2")
